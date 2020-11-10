@@ -4,3 +4,4 @@ git checkout master
   git add <...>
   git commit 
   git push origin master
+!(https://github.com/{usernameusrname}/{flower}/raw/{main}/{}/image.png)
